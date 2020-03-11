@@ -1,5 +1,5 @@
 # 3D-Printing
-3D Printable objects used for microscopy and beyond in the Plested lab, Humboldt University and FMP Berlin
+3D Printable objects used for microscopy and beyond in the Plested lab (www.fmp-berlin.de/plested), Humboldt University and FMP Berlin
 
 Mounts for Princeton Instruments ProEM512 (KP ProEM mount 0.2) and Photometrics Prime95B (KP Prime95B mount 0.2) cameras are included. These cameras have imperial threaded mounting points. The mounts allow the camera to be mounted directly to a M6 tapped 25 mm pitch breadboard, or to standard M6 tapped posts. You will need 8x32 (PI) or 1/4x20 (Photometrics) imperial screws to attach the cameras to mounts. 
 
@@ -13,4 +13,5 @@ The coverslip holder (KP CSH 0.2) is meant to accept 25 mm 1.5H glass coverslips
 Feel free to use these designs for any purpose. Comments and suggestions welcome. 
 
 Twitter: @andrewplested
+
 Email: andrew.plested@hu-berlin.de
