@@ -11,5 +11,6 @@ The coverslip holder (KP CSH 0.2) is meant to accept 25 mm 1.5H glass coverslips
 * .stl files are for generating 3D models to print. For example, with Slic3r: https://slic3r.org
 
 Feel free to use these designs for any purpose. Comments and suggestions welcome. 
+
 Twitter: @andrewplested
 Email: andrew.plested@hu-berlin.de
