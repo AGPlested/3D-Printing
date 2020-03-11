@@ -7,4 +7,4 @@ These mounts allow the camera to be mounted directly to a M6 tapped 25 mm pitch 
 * .scad files are for generating models in openSCAD: https://www.openscad.org
 * .stl files are for generating 3D models to print. for example with Slic3r: https://slic3r.org
 
-The coverslip holder (BK CSH) is meant to accept 25 mm 1.5H glass coverslips, for example for STORM or TIRF microscopy.
+The coverslip holder (KP CSH 0.2) is meant to accept 25 mm 1.5H glass coverslips, for example for STORM or TIRF microscopy.
